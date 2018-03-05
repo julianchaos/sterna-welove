@@ -1,0 +1,11 @@
+{
+  "name": "we-love",
+  "description": "A fast changing words animation for Sterna Digital homepage.",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc --watch",
+    "build:prod": "tsc"
+  },
+  "author": "Julian Andrade <julian@ndrade.com.br>",
+  "license": "ISC"
+}
